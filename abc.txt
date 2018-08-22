@@ -1,0 +1,722 @@
+    1  java -version
+    2  ssh -i "devika_frst.pem"ec2-user@18.216.9.164
+    3  ssh -i “dessh -i “myPemFile.pem” ec2-user@PUBLIC_IP_OF_YOUR_INSTANCE.v.pem” ec2-user@PUBLIC_IP_OF_YOUR_INSTANCE.
+    4  ssh -i “devika_frst.pem” ec2-user@18.216.9.164
+    5  cd ..
+    6  cd ~
+    7  ssh -i "devika_frst.pem" ec2-user@18.216.9.164
+    8  chmod 400 devika_frst.pem
+    9  chmod 455 devika_frst.pem
+   10  java -version
+   11  wget --no-check-certificate --no-cookies --header "Cookie: oraclelicense=accept-securebackup-cookie" http://download.oracle.com/otn-pub/java/jdk/8u141-b15/336fa29ff2bb4ef291e347e091f7f4a7/jdk-8u141-linux-x64.rpm
+   12  sudo yum install -y jdk-8u141-linux-x64.rpm
+   13  java -version
+   14   cd /opt/
+   15  wget http://ftp.itu.edu.tr/Mirror/Apache/tomcat/tomcat-8/v8.0.9/bin/apache-tomcat-8.0.9.tar.gz
+   16  wget http://ftp.itu.edu.tr/Mirror/Apache/tomcat/tomcat-8/v8.0.53/bin/apache-tomcat-8.0.53.tar.gz
+   17  tar -xvf apache-tomcat-8.0.53.tar.gz
+   18  sudo wget http://ftp.itu.edu.tr/Mirror/Apache/tomcat/tomcat-8/v8.0.9/bin/apache-tomcat-8.0.9.tar.gz
+   19  sudo wget http://ftp.itu.edu.tr/Mirror/Apache/tomcat/tomcat-8/v8.0.53/bin/apache-tomcat-8.0.53.tar.gz
+   20  sudo tar -xvf apache-tomcat-8.0.53.tar.gz
+   21  cd /opt/apache-tomcat-8.0.53/bin
+   22   ./startup.sh 
+   23  sudo ./startup.sh
+   24  cd ..
+   25  cd..
+   26  cd ..
+   27  cd..
+   28  cd ..
+   29  pwd
+   30  cd home
+   31  pwd
+   32  adduser
+   33  sudo adduser
+   34  devika.r
+   35  useradd devika.r
+   36  cd /
+   37  useradd devika.r
+   38  su-
+   39  sudo adduser ec2-user devika.r
+   40  -u
+   41  sudo adduser -u ec2-user devika.r
+   42  sudo adduser -u devika.r
+   43  sudo useradd devika.r
+   44  su devika.r
+   45  su ec2-user
+   46  cd /home/ec2-user/
+   47  pwd
+   48  mkdir j
+   49  pwd
+   50  cd /opt/apache-tomcat-8.0.53/bin
+   51  ls
+   52  cd ..
+   53  ls
+   54  cd webapps
+   55  pwd
+   56  cd /home/ec2-user/j
+   57  sudo yum install git
+   58  git status
+   59  git
+   60  git clone https://github.com/git786hub/jpetstore-war-file.git
+   61  pwd
+   62  /home/ec2-user/j
+   63  cp /home/ec2-user/j /opt/apache-tomcat-8.0.53/webapps
+   64  cd /opt/apcahe-tomcat-8.0.53/webapps
+   65  cd ..
+   66  cd /opt/apache-tomcat-8.0.53/webapps
+   67  cd ..
+   68  cd bin
+   69  cd /opt/apache-tomcat-8.0.53
+   70  ls
+   71  cd ~
+   72  cd /opt
+   73  ls
+   74  cd apache-tomcat-8.0.53/
+   75  ls
+   76  cd conf
+   77  ls
+   78  sudo vi tomcat-users.xml
+   79  cd ..
+   80  cd bin
+   81  sudo ./startup.sh
+   82  ls
+   83  sudo ./shutdown.sh 
+   84  sudo ./startup.sh
+   85  netstat -ano | grep ":8080"
+   86  netstat -ano
+   87  cd ..
+   88  ls
+   89  cd conf
+   90  ls
+   91  sudo vi tomcat-users.xml
+   92  service tomcat 8 status
+   93  service tomcat8 status
+   94  ps
+   95  ls
+   96  sudo vi tomcat-users.xml
+   97  cd ..
+   98  cd bin
+   99  ls
+  100  sudo ./shutdown.sh 
+  101  sudo ./startup.sh
+  102  cd ..
+  103  cd conf
+  104  ls
+  105  cd tomcat-users.xml
+  106  sudo vi tomcat-users.xml
+  107  cd ..
+  108  cd bin
+  109  ls
+  110  sudo ./shutdown.sh
+  111  cd ..
+  112  cd conf
+  113  ls
+  114  sudo vi tomcat-users.xml
+  115  cd ..
+  116  cd bin
+  117  ls
+  118  sudo ./startup.sh
+  119  cd ..
+  120  cd conf
+  121  ls
+  122  sudo vi tomcat-users.xml
+  123  cat tomcat-users.xml
+  124  cd ..
+  125  cd bin
+  126  sudo ./shutdown.sh
+  127  cd conf
+  128  cd ..
+  129  cd conf
+  130  cat tomcat-users.xml
+  131  cd ..
+  132  cd bin
+  133  ls
+  134  shutdown.sh
+  135  sudo ./shutdown.sh
+  136  cd ..
+  137  cat tomcat-uaers.xml
+  138  ls
+  139  cd conf
+  140  cat tomcat-uaers.xml
+  141  ls
+  142  cat tomcat-users.xml
+  143  sudo car tomcat-users.xml
+  144  sudo cat tomcat-users.xml
+  145  sudo vi tomcat-server.xml
+  146  ls
+  147  suso vi tomcat-users.xml
+  148  sudo vi tomcat-users.xml
+  149  cat tomcat-users.xml
+  150  sudo cat tomcat-users.xml
+  151  sudo vi tomcat-users.xml
+  152  cd ..
+  153  cd bin
+  154  ls
+  155  sudo ./startup.sh
+  156  sudo ./shutdown.sh
+  157  cd ..
+  158  cd conf
+  159  ls
+  160  sudo vi tomcat-users.xml
+  161  cd ..
+  162  cd bin
+  163  ls
+  164  sudo ./startup.sh
+  165  sudo ./shutdown.sh
+  166  cd ..
+  167  cd bin
+  168  ls
+  169  cd ..
+  170  cd conf
+  171  ls
+  172  sudo vi tomcat-users.xml
+  173  cd ..
+  174  cd bin
+  175  ls
+  176  sudo ./startup.sh
+  177  cd
+  178  cd opt/apache-tomcat-8.0.53
+  179  cd /opt
+  180  cd apache-tomcat-8.0.53
+  181  cd webapps
+  182  ls
+  183  cd docs
+  184  ls
+  185  cd
+  186  cp /home/ec2-user/j /opt/apache-tomcat-80.0.53/webapps
+  187  cd /opt/apache-tomcat-80.0.53/webapps
+  188  cd opt
+  189  cd /opt
+  190  cd apache-tomcat-8.0.53
+  191  cd webapps
+  192  ls
+  193  cd
+  194  cd home
+  195  cd ec2-user
+  196  pwd
+  197  cd /home/ec2-user/j
+  198  ls
+  199  mv /home/ec2-user/j
+  200  cd /home/ec2-user/j/jpetstore-war-file
+  201  mv /home/ec2-user/j/jpetstore-war-file/ /opt/apache-tomcat-8.0.53/webapps/
+  202  sudo mv /home/ec2-user/j/jpetstore-war-file/ /opt/apache-tomcat-8.0.53/webapps/
+  203  cd
+  204  sudo mv /home/ec2-user/j/jpetstore-war-file/ /opt/apache-tomcat-8.0.53/webapps/
+  205  cd ..
+  206  cd /home
+  207  cd j
+  208  cd ec2-user
+  209  pwd
+  210  cd j
+  211  pwd
+  212  cd
+  213  sudo mv /home/ec2-user/j
+  214  sudo mv /home/ec2-user/j/jpetstore-war/jpetstore.war /opt/apache-tomcat-8.0.53/webapps
+  215  pwd
+  216  cd j
+  217  cd jpetstore-war
+  218  ls
+  219  cd ~
+  220  pwd
+  221  cd j
+  222  pwd
+  223  ls
+  224  ls -la
+  225  cd ~
+  226  cd /opt/
+  227  ls
+  228  cd apache-tomcat-8.0.53/
+  229  cd webapps/
+  230  ls
+  231  cd ..
+  232  cd bin
+  233  ls
+  234  sudo ./shutdown.sh
+  235  sudo ./startup.sh
+  236  cd ..
+  237  cd conf
+  238  ls
+  239  sudo vi tomcat-users.xml
+  240  cd /opt
+  241  ls
+  242  cd apache-tomcat-8.0.53/
+  243  cd bin
+  244  sudu ./startup.sh
+  245  sudo ./startup.sh
+  246  cd ..
+  247  cd ~
+  248  cd CATALINA_BASE/conf/tomcat-users.xml
+  249  cd /opt
+  250  ls
+  251  cd apache-tomcat-8.0.53/
+  252  ls
+  253  cd conf
+  254  ls
+  255  cd tomcat-users.xml
+  256  cd ..
+  257  ls
+  258  cd webaPPS
+  259  cd webapps/
+  260  ls
+  261  cd manager
+  262  ls
+  263  cd WEB-INF/
+  264  LS
+  265  ls
+  266  cd web.xml
+  267  sudo vi web.xml
+  268  cd ..
+  269  cd bin
+  270  ls
+  271  sudo ./shutdown.sh
+  272  cd ..
+  273  cd conf
+  274  ls
+  275  sudo vi tomcat-users.xml
+  276  chmod tomcat-users.xml 777
+  277  chmod 777 tomcat-users.xml
+  278  sudo chmod 777 tomcat-users.xml
+  279  cd..
+  280  cd ..
+  281  cd bin
+  282  ls
+  283  sudo ./startup.sh
+  284  cd /opt
+  285  ls
+  286  cd apache-tomcat-8.0.53/
+  287  cd conf
+  288  ls
+  289  cd ..
+  290  cd bin
+  291  ls
+  292  sudo ./startup.sh
+  293  ./shutdown.sh 
+  294  cd ..
+  295  rm -rf apache-tomcat-8.0.53
+  296  sudo rm -rf apache-tomcat-8.0.53
+  297  ls
+  298  sudo tar -xvf apache-tomcat-8.0.53.tar.gz 
+  299  ls
+  300  cd apache-tomcat-8.0.53/
+  301  cd bin
+  302  ls
+  303  ./startup.sh 
+  304  sudo ./startup.sh 
+  305  cd ..
+  306  cd apache-tomcat-8.0.53/
+  307  ls
+  308  cd conf
+  309  ls
+  310  sudo vi tomcat-users.xml
+  311  cd ..
+  312  cd bin
+  313  sudo ./shutdown.sh 
+  314  sudo ./startup.sh 
+  315  sudo ./shutdown.sh 
+  316  cd ..
+  317  ls
+  318  cd conf
+  319  ls
+  320  sudo vi tomcat-users.xml
+  321  cd ..
+  322  cd conf
+  323  ls
+  324  cd ..
+  325  cd bin
+  326  ls
+  327  sudo ./shutdown.sh 
+  328  ./startup.sh 
+  329  sudo ./startup.sh 
+  330  cd ~
+  331  sudo yum install docker
+  332  clear
+  333  cd /opt
+  334  ls
+  335  sudo systemctl start docker
+  336  cd ..
+  337  sudo systemctl start docker
+  338  sudo systemctl status docker
+  339  sudo systemctl enable docker
+  340  docker -v
+  341  docker images
+  342  sudo docker run
+  343  sudo docker images
+  344  docker ps -a
+  345  sudo docker ps
+  346  sudo docker run hello-world
+  347  sudo docker images
+  348  sudo docker ps
+  349  docker run hello-world
+  350  sudo docker run hello-world
+  351  docker images
+  352  sudo docker images
+  353  sudo docker ps -a
+  354  cd /var/lib/docker
+  355  ls
+  356  sudo ls
+  357  cd containers
+  358  sudo cd containers
+  359  ls
+  360  sudo ls
+  361  cd..
+  362  cd ..
+  363  mkdir demo
+  364  sudo mkdir demo
+  365  cd demo
+  366  sudo vi Dockerfile
+  367  cd
+  368  cd /usr/lib
+  369  ls
+  370  cd ..
+  371  ls
+  372  cd lib
+  373  ls
+  374  java -version
+  375  ls
+  376  cd ..
+  377  sudo docker pull ubuntu
+  378  sudo docker images
+  379  sudo gedit Dockerfile
+  380  sudo vi Dockerfile
+  381  cd demo
+  382  ls
+  383  mv demo Dockefile
+  384  sudo docker buid -t demo:1.0. 
+  385  sudo docker build demo:1.0.
+  386  cp Dockefile demo
+  387  cd ..
+  388  cp Dockerfile demo
+  389  sudp cp Dockerfile demo
+  390  sudo cd Dockerfile demo
+  391  sudo vi Dockerfile
+  392  cd demo
+  393  sudo vi Dockerfile
+  394  cd ..
+  395  sudo vi Dockerfile 
+  396  rm Dockerfile.swp
+  397  rm Dockerfile
+  398  sudo rm Dockerfile
+  399  cd demo
+  400  sudo vi Dockerfile
+  401  cd ..
+  402  mkdir demo2
+  403  sudo mkdir demo2
+  404  cd demo2
+  405  sudo vi Dockerfile
+  406  sudo docker build -t="devi" .
+  407  java -version
+  408  sudo Docker run devi
+  409  sudo docker run devi
+  410  sudo docker image
+  411  sudo docker images
+  412  cd ..
+  413  sudo docker pull java
+  414  sudo docker images
+  415  sudo docker pull tomcat
+  416  pwd
+  417  /tomcat
+  418  cd /tomcat
+  419  cd /opt/tomcat
+  420  cd /opt
+  421  ls
+  422  sudo docker build devi
+  423  sudo docker buid devi .
+  424  sudo docker build devi .
+  425  cd ~
+  426  sudo docker build="devi" .
+  427  sudo vi Dockerfile
+  428  mkdir dev
+  429  cd dev
+  430  sudo vi Dockerfile
+  431  sudo docker build -t hello-world .
+  432  sudo docker images
+  433  sudo docker run -p 80:80 hello-world
+  434  docker -v
+  435  sudo docker run -p 80:80 hello-world
+  436  sudo service  docker start
+  437  docker ps
+  438  docker info 
+  439  sudo docker info
+  440  sudo usermod -a -G docker ec2-user
+  441  docker info
+  442  sudo service docker start
+  443  docker infor
+  444  docker info
+  445  docker images
+  446  ls
+  447  cd dev
+  448  ls
+  449  sudo vi Dockerfile
+  450  docker run -p 80:80 hello-world
+  451  sudo vi Dockerfile
+  452  cd ..
+  453  mkdir task
+  454  cd task
+  455  sudo vi Dockefile
+  456  sudo service docker start
+  457  docker build -t="testbuild" .
+  458  ls
+  459  docker build -t="testbuild" .
+  460  docker build -t test .
+  461  vi Dockefile 
+  462  chmod 755 Dockefile 
+  463  sudo chmod 755 Dockerfile
+  464  cd ..
+  465  ls
+  466  dev
+  467  cd dev
+  468  ls
+  469  docker images
+  470  docker run d23bdf5b1b1b 
+  471  docker run 5808f01b11bf
+  472  docker ps -a
+  473  catalina.sh run
+  474  sudo docker service start
+  475  docker run  5808f01b11bf
+  476  sudo docker service start
+  477  docker images
+  478  docker run 5808f01b11bf
+  479  cd /etc/sys config/jenkins
+  480  sudo yum update
+  481  cd /etc/
+  482  ls
+  483  cd sysconfig/jenkins
+  484  cd sysconfig
+  485  ls
+  486  cd ~
+  487  cd etc
+  488  cd /etc
+  489  ls
+  490  cd ..
+  491  cd usr
+  492  ls
+  493  cd bin
+  494  ls
+  495  cd ..
+  496  ls
+  497  cd lib
+  498  ls
+  499  cd ..
+  500  cd ~
+  501  cd /var/lib
+  502  ls
+  503  cd ~
+  504  sudo service jenlins start
+  505  $ sudo yum update –y
+  506   sudo yum update –y
+  507  sudo yum update
+  508  $ sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins.io/redhat/jenkins.repo
+  509              sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins.io/redhat/jenkins.repo
+  510  sudo rpm --import https://pkg.jenkins.io/redhat/jenkins.io.key
+  511  sudo yum install jenkins -y
+  512  sudo service jenkins start
+  513  cd /var/lib/jenkins
+  514  chmod 777 secrets
+  515  cd secrets
+  516  chmod 755 secrets
+  517  sudo chmod 777 secrets
+  518  cd scerets
+  519  cd secrets
+  520  ls
+  521  cd initialAdminPassword
+  522  vi initialAdminPassword
+  523  sudo vi initialAdminPassword
+  524  cd ~
+  525  curl http://localhost:8080
+  526  cd ~
+  527  sudo vi jenkins
+  528  cd /var/lib/jenkins
+  529  cd /etc/sysconfig
+  530  ls
+  531  sudo vi jenkins
+  532  cd ~
+  533  sudo usermod -a -G root jenkins
+  534  sudo service jenkins restart
+  535  cd /var/lib/jenkins/secrets
+  536  sudo vi secrets
+  537  ls
+  538  sudo vi initialAdminPassword 
+  539  curl http://localhost:8080
+  540  cd ~
+  541  sudo usermod -a -G root jenkins
+  542  sudo service jenkins restart
+  543  curl http://localhost:8080
+  544  /etc/
+  545  ls
+  546  cd /etc
+  547  ls
+  548  cd /var/lib
+  549  ls
+  550  cd jenkins/
+  551  ls
+  552  sudo vi config.xml 
+  553  sudo servive jenkins restart
+  554  sudo service jenkins restart
+  555  cd /opt
+  556  mkdir jenkins
+  557  sudo mkdir jenkins
+  558  sudo docker service start
+  559  sudo service docker start
+  560  cd dev
+  561  ls
+  562  cd ..
+  563  docker images
+  564  docker run 5808f01b11bf
+  565  sudo service docker start
+  566  docker images
+  567  docker ps -a
+  568  sudo docker inspect --format '{{ .NetworkSettings.IPAddress }}'5808f01b11bf
+  569  docker ps
+  570  docker start  `docker ps -q -l` 
+  571  docker ps
+  572  sudo docker search tomcat
+  573  sudo docker pull consol/tomcat-7.0
+  574  docker search tomcat
+  575  docker pull consol/tomcat-8.0
+  576  docker run consol/tomcat-8.0
+  577  sudo service docker start
+  578  docker ps
+  579  docker inspect -f format='{{.NetworkSettings.IPAddress}}' 07a514a91abb
+  580  sudo service jenkins stop
+  581  docker inspect -f format='{{.NetworkSettings.IPAddress}}' 07a514a91abb
+  582  docker run consol/tomcat-8.0
+  583  cd dev
+  584  ls
+  585  cd ..
+  586  mkdir install_tomcat
+  587  cd install_tomcat/
+  588  sudo vi Dockerfile
+  589  vi Dockerfile
+  590  sudo vi Dockerfile
+  591  sudo service docker start
+  592  docker build -t at:1.0
+  593  docker images
+  594  docker build -t aptom:1.0 .
+  595  sudo docker build -t aptom.
+  596  docker build --help
+  597  sudo docker build -t aptom:1.0.
+  598  sudo docker build -t="myimage1" .
+  599  docker images
+  600  rm Dockerfile
+  601  sudo vi Dockerfile
+  602  docker images
+  603  docker run d23bdf5b1b1b 
+  604  java -version
+  605  sudo service docker start
+  606  docker ls
+  607  docker images
+  608  docker service ls
+  609  docker ps -a
+  610  docker run 2cb0d9787c4d 
+  611  docker run  d23bdf5b1b1b
+  612  docker ps -a
+  613  docker run 5808f01b11bf
+  614  docker ps
+  615  docker run --name"8efa799215d1" -p 8080:8080 
+  616  docker run --help
+  617  dcoker info
+  618  docker info
+  619  docker image
+  620  docker images
+  621  docker run -i -t --mycontainer consol/tomcat-8.0  /bin/bash
+  622  docker run -i -t --name mycontainer consol/tomcat-8.0  /bin/bash
+  623  sudo docker services
+  624  sudo dockerps
+  625  sudo docker ps
+  626  docker exec -it 8efa799215d1 /bin/bash
+  627  docker ps
+  628  docker inspect -f format='{{.NetworkSettings.IPAddress}}' 8efa799215d1
+  629  docker ps
+  630  docker images
+  631  docker ps
+  632  docker inspect
+  633  docker inspect -f format='{{.NetworkSettings.IPAddress}}' 8efa799215d1
+  634  docker inspect 8efa799215d1
+  635  curl http;//localhost:8080
+  636  curl localhost:8080
+  637  docker ps
+  638  curl localhost:8778
+  639  curl 172.17.0.4:8080
+  640  sudo service docker start
+  641  docker ps
+  642  docker ps -a
+  643  docker run -i -t -p 8080:8080 -p 8081:8778  consol/tomcat-8.0  /bin/bash
+  644  docker start -p 8080:8080 f8ac750554c8 
+  645  docker start --help
+  646  docker start  f8ac750554c8 
+  647  docker ps
+  648  docke exec f8ac750554c8  /bin/bash
+  649  docker exec f8ac750554c8  /bin/bash
+  650  docker exec -i -t f8ac750554c8  /bin/bash
+  651  docker run -i -t -p 8080:8080 -P 8082:8778 f8ac750554c8
+  652  docker run -i -t -p 8080:8080 -p 8082:8778  consol/tomcat-8.0 /bin/bash
+  653  docker run -i -t -p 8085:8080 -p 8082:8778  consol/tomcat-8.0 /bin/bash
+  654  ps
+  655  docker ps
+  656  dcoker ps -a
+  657  docker ps -a
+  658  docker start 598857377ba2
+  659  docker ps 
+  660  curl localhost:8085
+  661  curl localhost:8080
+  662  curl localhost:8085
+  663  curl 0.0.0.0:8085
+  664  netstat -ano | grep ":8085"
+  665  docker ps
+  666  docker inspect
+  667  docker inspect 598857377ba2
+  668  docker ps
+  669  docker stop f8ac750554c8
+  670  docker ps -a
+  671  docker ps
+  672  docker rm -rf f8ac750554c8
+  673  docker rm -f f8ac750554c8
+  674  curl http://localhost:8080
+  675  docker ps
+  676  curl http://localhost:8085
+  677  docker stop 598857377ba2
+  678  docker ps
+  679  docker images
+  680  docker run -d --name tomcat  -p 9000:8080 d6ab22a06f7a 
+  681  docker ps
+  682  curl http://localhost:9000
+  683  docker exec -i -t 04d0c1555740 /bin/bash
+  684  ls
+  685  docker ps 
+  686  docker images
+  687  docker run -d --name new  -p 9000:8080 d6ab22a06f7a
+  688  docker run -d --name new  -p 9001:8080 d6ab22a06f7a
+  689  docker run -d --name new  -p 9001:8080 5808f01b11bf
+  690  docker run -d --name newabc  -p 9001:8080 5808f01b11bf
+  691  docke rps
+  692  docke ps
+  693  docker ps
+  694  docker stop 04d0c1555740
+  695  docker ps
+  696  docker rm -f 682a3569bd21
+  697  docker run -d --name mine -p 9002:8080 consol/tomcat-7.0
+  698  docker ps
+  699  curl http://localhost:9002
+  700  docker exec -i -t new  /bin/bash
+  701  docker ps 
+  702  docker exec -i -t mine  /bin/bash
+  703  sudo yum install -y curl policycoreutils-python openssh-server
+  704  sudo systemctl enable sshd
+  705  sudo systemctl start sshd
+  706  sudo firewall-cmd --permanent --add-service=http
+  707  sudo yum install firewall-cmd
+  708  sudo yum install firewall
+  709  sudo yum install firewalld
+  710  sudo firewall-cmd --permanent --add-service=http
+  711  sudo systemctl reload firewalld
+  712  sudo firewall-cmd --permanent --add-service=http
+  713  sudo firewalld-cmd --permanent --add-service=http
+  714  sudo systemctl enable sshd
+  715  sudo systemctl start sshd
+  716  sudo systemctl enable firewalld
+  717  sudo yum install firewalld
+  718  systemctl enable firewalld
+  719  sudo systemctl enable firewalld
+  720  sudo reboot
+  721  history
+  722  history > abc.txt
